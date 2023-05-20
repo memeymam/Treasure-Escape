@@ -15,13 +15,13 @@ public class FPSController : MonoBehaviour
    public float runSpeed = 12f;
 
 
-   public float jumpPower = 7f;
+   public float jumpPower = 2f;
 
 
-   public float gravity = 10f;
+   public float gravity = 20f;
 
 
-   public float lookSpeed = 2f;
+   public float lookSpeed = 7f;
 
 
    public float lookXLimit = 45f;
