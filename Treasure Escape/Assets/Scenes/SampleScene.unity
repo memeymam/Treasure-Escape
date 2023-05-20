@@ -1261,6 +1261,7 @@ GameObject:
   - component: {fileID: 1574519162278817235}
   - component: {fileID: 2938801658846163153}
   - component: {fileID: 6358005584492238560}
+  - component: {fileID: 6358005584492238561}
   m_Layer: 0
   m_Name: StylShip_SailMid2
   m_TagString: Untagged
@@ -1310,6 +1311,7 @@ GameObject:
   - component: {fileID: 2148996349332999037}
   - component: {fileID: 6716888023571585443}
   - component: {fileID: 8550289369883606613}
+  - component: {fileID: 8550289369883606614}
   m_Layer: 0
   m_Name: StylShip_Flag1
   m_TagString: Untagged
@@ -1378,6 +1380,7 @@ GameObject:
   - component: {fileID: 6549720569145563826}
   - component: {fileID: 5082965389694987580}
   - component: {fileID: 3413132449673485325}
+  - component: {fileID: 6549720569145563827}
   m_Layer: 0
   m_Name: StylShip_Pallet4
   m_TagString: Untagged
@@ -1404,6 +1407,7 @@ GameObject:
   - component: {fileID: 6316590291363134896}
   - component: {fileID: 4319867387344877553}
   - component: {fileID: 4663250209538513753}
+  - component: {fileID: 6316590291363134897}
   m_Layer: 0
   m_Name: StylShip_WireBack
   m_TagString: Untagged
@@ -1586,6 +1590,7 @@ GameObject:
   - component: {fileID: 5652492791314549080}
   - component: {fileID: 1206915263181741485}
   - component: {fileID: 7214861542695191978}
+  - component: {fileID: 7214861542695191979}
   m_Layer: 0
   m_Name: StylShip_Barrel5
   m_TagString: Untagged
@@ -1822,6 +1827,7 @@ GameObject:
   - component: {fileID: 5959142568226417183}
   - component: {fileID: 7292006136705261071}
   - component: {fileID: 4640787145604154790}
+  - component: {fileID: 7292006136705261072}
   m_Layer: 0
   m_Name: StylShip_WireFront
   m_TagString: Untagged
@@ -1848,6 +1854,7 @@ GameObject:
   - component: {fileID: 6849305597827749826}
   - component: {fileID: 8280943143001709203}
   - component: {fileID: 3958181174594795009}
+  - component: {fileID: 8280943143001709204}
   m_Layer: 0
   m_Name: StylShip_WheelStand
   m_TagString: Untagged
@@ -1897,6 +1904,7 @@ GameObject:
   - component: {fileID: 1954547171252389795}
   - component: {fileID: 7058226891798912436}
   - component: {fileID: 7962013098353664912}
+  - component: {fileID: 7962013098353664913}
   m_Layer: 0
   m_Name: StylShip_StairsTop
   m_TagString: Untagged
@@ -1938,6 +1946,7 @@ GameObject:
   - component: {fileID: 9208713479720767300}
   - component: {fileID: 3586841509244943522}
   - component: {fileID: 3448841275789466577}
+  - component: {fileID: 9208713479720767301}
   m_Layer: 0
   m_Name: StylShip_MastFront
   m_TagString: Untagged
@@ -2013,6 +2022,7 @@ GameObject:
   - component: {fileID: 4055519352728504022}
   - component: {fileID: 34434389859112839}
   - component: {fileID: 7734057902324603163}
+  - component: {fileID: 7734057902324603164}
   m_Layer: 0
   m_Name: StylShip_Rudder
   m_TagString: Untagged
@@ -2046,6 +2056,7 @@ GameObject:
   - component: {fileID: 933052987662919536}
   - component: {fileID: 1079818878746979824}
   - component: {fileID: 4378679649313628298}
+  - component: {fileID: 4378679649313628299}
   m_Layer: 0
   m_Name: StylShip_LoopholeCap1_right
   m_TagString: Untagged
@@ -2137,6 +2148,7 @@ GameObject:
   - component: {fileID: 4107957022712228404}
   - component: {fileID: 178635276879160916}
   - component: {fileID: 4994094642612038494}
+  - component: {fileID: 4994094642612038495}
   m_Layer: 0
   m_Name: StylShip_Cannon2
   m_TagString: Untagged
@@ -2220,6 +2232,7 @@ GameObject:
   - component: {fileID: 364661429928143453}
   - component: {fileID: 3479141455633061838}
   - component: {fileID: 6517279805813240848}
+  - component: {fileID: 6517279805813240849}
   m_Layer: 0
   m_Name: StylShip_Pallet5
   m_TagString: Untagged
@@ -2288,6 +2301,7 @@ GameObject:
   - component: {fileID: 4632927161732845772}
   - component: {fileID: 4426300359758601600}
   - component: {fileID: 8004836384182598896}
+  - component: {fileID: 8004836384182598897}
   m_Layer: 0
   m_Name: StylShip_SailMid1
   m_TagString: Untagged
@@ -2406,6 +2420,7 @@ GameObject:
   - component: {fileID: 3290898675347246761}
   - component: {fileID: 8040196499323956524}
   - component: {fileID: 7231386194131901978}
+  - component: {fileID: 8040196499323956525}
   m_Layer: 0
   m_Name: StylShip_StairsBot
   m_TagString: Untagged
@@ -2516,6 +2531,7 @@ GameObject:
   - component: {fileID: 3143792502876740795}
   - component: {fileID: 6751547287059027097}
   - component: {fileID: 5382218346761299944}
+  - component: {fileID: 6751547287059027098}
   m_Layer: 0
   m_Name: StylShip_Support
   m_TagString: Untagged
@@ -2549,6 +2565,7 @@ GameObject:
   - component: {fileID: 2443813094205284586}
   - component: {fileID: 871496350439276231}
   - component: {fileID: 6697933438545335036}
+  - component: {fileID: 6697933438545335037}
   m_Layer: 0
   m_Name: StylShip_Prow
   m_TagString: Untagged
@@ -2995,6 +3012,7 @@ GameObject:
   - component: {fileID: 6104054896290710521}
   - component: {fileID: 205797955651252628}
   - component: {fileID: 7484357726406488561}
+  - component: {fileID: 7484357726406488562}
   m_Layer: 0
   m_Name: StylShip_Door2
   m_TagString: Untagged
@@ -3013,6 +3031,7 @@ GameObject:
   - component: {fileID: 40323571767294490}
   - component: {fileID: 3835839221422954201}
   - component: {fileID: 4424531373883031450}
+  - component: {fileID: 4424531373883031451}
   m_Layer: 0
   m_Name: StylShip_Box9
   m_TagString: Untagged
@@ -3031,6 +3050,7 @@ GameObject:
   - component: {fileID: 7989171676335269324}
   - component: {fileID: 8315458222917976526}
   - component: {fileID: 5828373024969469371}
+  - component: {fileID: 8315458222917976527}
   m_Layer: 0
   m_Name: StylShip_WireMid
   m_TagString: Untagged
@@ -3064,6 +3084,7 @@ GameObject:
   - component: {fileID: 9046122447018929237}
   - component: {fileID: 4155383120433637914}
   - component: {fileID: 8471208299349578260}
+  - component: {fileID: 9046122447018929238}
   m_Layer: 0
   m_Name: StylShip_FencingBack
   m_TagString: Untagged
@@ -3097,6 +3118,7 @@ GameObject:
   - component: {fileID: 3109022258618615684}
   - component: {fileID: 3142992360561591775}
   - component: {fileID: 7302658839566368527}
+  - component: {fileID: 7302658839566368528}
   m_Layer: 0
   m_Name: StylShip_FloorMid
   m_TagString: Untagged
@@ -3223,6 +3245,7 @@ GameObject:
   - component: {fileID: 8231912930025334415}
   - component: {fileID: 6307642961260898977}
   - component: {fileID: 5453953645810351631}
+  - component: {fileID: 8231912930025334416}
   m_Layer: 0
   m_Name: StylShip_Wheel
   m_TagString: Untagged
@@ -3463,6 +3486,7 @@ GameObject:
   - component: {fileID: 3288449542925343689}
   - component: {fileID: 6788936654845661895}
   - component: {fileID: 5498977082957818898}
+  - component: {fileID: 6788936654845661896}
   m_Layer: 0
   m_Name: StylShip_FloorBackTop
   m_TagString: Untagged
@@ -3520,6 +3544,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &4378679649313628299
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1971168728646246174}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.012000007, y: 0.011182293, z: 0.00972238}
+  m_Center: {x: 0.000000031199306, y: 0.0046005757, z: -0.003880631}
 --- !u!23 &4383506260772752005
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3573,6 +3610,7 @@ GameObject:
   - component: {fileID: 6570434742833221880}
   - component: {fileID: 4171025039293529783}
   - component: {fileID: 4593573415362609384}
+  - component: {fileID: 6570434742833221881}
   m_Layer: 0
   m_Name: StylShip_FloorBackBottom
   m_TagString: Untagged
@@ -3622,6 +3660,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &4424531373883031451
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3645975818807856456}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.009156867, y: 0.009156871, z: 0.009156869}
+  m_Center: {x: 0, y: 0, z: -4.656614e-10}
 --- !u!33 &4426300359758601600
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -3649,6 +3700,7 @@ GameObject:
   - component: {fileID: 855548516129443890}
   - component: {fileID: 5487096363453925523}
   - component: {fileID: 4308931918456764506}
+  - component: {fileID: 5487096363453925524}
   m_Layer: 0
   m_Name: StylShip_Windows
   m_TagString: Untagged
@@ -3675,6 +3727,7 @@ GameObject:
   - component: {fileID: 1527980724963315749}
   - component: {fileID: 6388186696300730681}
   - component: {fileID: 8293134693342346008}
+  - component: {fileID: 8293134693342346009}
   m_Layer: 0
   m_Name: StylShip_Pallet3
   m_TagString: Untagged
@@ -3872,6 +3925,7 @@ GameObject:
   - component: {fileID: 6476571382520702675}
   - component: {fileID: 4816373858132079950}
   - component: {fileID: 3169968989043741473}
+  - component: {fileID: 6476571382520702676}
   m_Layer: 0
   m_Name: StylShip_Box3
   m_TagString: Untagged
@@ -4012,6 +4066,7 @@ GameObject:
   - component: {fileID: 3231627723524020743}
   - component: {fileID: 7463238786438093813}
   - component: {fileID: 8118887157793731850}
+  - component: {fileID: 8118887157793731851}
   m_Layer: 0
   m_Name: StylShip_Bracing
   m_TagString: Untagged
@@ -4030,6 +4085,7 @@ GameObject:
   - component: {fileID: 6258248135049764508}
   - component: {fileID: 5842281510172755107}
   - component: {fileID: 2741860184143204029}
+  - component: {fileID: 6258248135049764509}
   m_Layer: 0
   m_Name: StylShip_LoopholeCap3_left
   m_TagString: Untagged
@@ -4079,6 +4135,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &4994094642612038495
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2279836315106741768}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.034784567, y: 0.01814926, z: 0.0153107755}
+  m_Center: {x: 0.0060527106, y: -0.0000016904854, z: 0.001391154}
 --- !u!33 &5082965389694987580
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -4098,6 +4167,7 @@ GameObject:
   - component: {fileID: 4849849723343327824}
   - component: {fileID: 2589808117121200913}
   - component: {fileID: 1747272047803010647}
+  - component: {fileID: 5107833959329331808}
   m_Layer: 0
   m_Name: StylShip_MainFlag
   m_TagString: Untagged
@@ -4105,6 +4175,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &5107833959329331808
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5107833959329331807}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.03513003, y: 0.006025531, z: 0.019640053}
+  m_Center: {x: 0, y: 0.000032946824, z: -0.000000030267984}
 --- !u!4 &5252962273563043561
 Transform:
   m_ObjectHideFlags: 0
@@ -4113,8 +4196,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4876718862368816211}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -12.821685, y: 1.1, z: -26.566303}
-  m_LocalScale: {x: 50, y: 50, z: 50}
+  m_LocalPosition: {x: -12.821685, y: 1.1, z: -45.5}
+  m_LocalScale: {x: 200, y: 200, z: 200}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7666855289868212304}
@@ -4200,6 +4283,7 @@ GameObject:
   - component: {fileID: 8041230210092476113}
   - component: {fileID: 3208242177132323725}
   - component: {fileID: 6819116476002157426}
+  - component: {fileID: 8041230210092476114}
   m_Layer: 0
   m_Name: StylShip_LoopholeCap2_left
   m_TagString: Untagged
@@ -4344,6 +4428,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4526599532545267549}
   m_Mesh: {fileID: -7857795701897817562, guid: a8fd4e3e631e67a4983b6feffbdb761c, type: 3}
+--- !u!65 &5487096363453925524
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4526599532545267549}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.10251078, y: 0.10889775, z: 0.0127917575}
+  m_Center: {x: 0.000000029802322, y: 0.033435315, z: 9.313228e-10}
 --- !u!23 &5498977082957818898
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4447,6 +4544,7 @@ GameObject:
   - component: {fileID: 6451077513151679503}
   - component: {fileID: 9089393045026430445}
   - component: {fileID: 7960944221407820375}
+  - component: {fileID: 9089393045026430446}
   m_Layer: 0
   m_Name: StylShip_Box6
   m_TagString: Untagged
@@ -4465,6 +4563,7 @@ GameObject:
   - component: {fileID: 3391762169672037530}
   - component: {fileID: 43134410224654223}
   - component: {fileID: 7890140184940010597}
+  - component: {fileID: 7890140184940010598}
   m_Layer: 0
   m_Name: StylShip_Ropes
   m_TagString: Untagged
@@ -4483,6 +4582,7 @@ GameObject:
   - component: {fileID: 9059701966593632535}
   - component: {fileID: 3915512500240943433}
   - component: {fileID: 4383506260772752005}
+  - component: {fileID: 9059701966593632536}
   m_Layer: 0
   m_Name: StylShip_StairsSmall
   m_TagString: Untagged
@@ -4738,6 +4838,7 @@ GameObject:
   - component: {fileID: 5411989947962060486}
   - component: {fileID: 4543027042797801638}
   - component: {fileID: 550142091152334820}
+  - component: {fileID: 6022387830460196649}
   m_Layer: 0
   m_Name: StylShip_Pallet1
   m_TagString: Untagged
@@ -4745,6 +4846,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &6022387830460196649
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6022387830460196648}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.023559611, y: 0.018537601, z: 0.0024052812}
+  m_Center: {x: -0.000000029336661, y: -0.0000000018626451, z: -5.820766e-10}
 --- !u!1 &6034530439297731231
 GameObject:
   m_ObjectHideFlags: 0
@@ -4756,6 +4870,7 @@ GameObject:
   - component: {fileID: 849459941379960102}
   - component: {fileID: 7327240622090941157}
   - component: {fileID: 8852629858950167458}
+  - component: {fileID: 8852629858950167459}
   m_Layer: 0
   m_Name: StylShip_FencingFront
   m_TagString: Untagged
@@ -4774,6 +4889,7 @@ GameObject:
   - component: {fileID: 6209181522157458951}
   - component: {fileID: 1147323693256972870}
   - component: {fileID: 629069579057939611}
+  - component: {fileID: 6209181522157458952}
   m_Layer: 0
   m_Name: StylShip_Door1
   m_TagString: Untagged
@@ -4792,6 +4908,7 @@ GameObject:
   - component: {fileID: 3524868240707605269}
   - component: {fileID: 3139508831733820466}
   - component: {fileID: 7152857398882741174}
+  - component: {fileID: 7152857398882741175}
   m_Layer: 0
   m_Name: StylShip_LoopholeCap3_right
   m_TagString: Untagged
@@ -4875,6 +4992,7 @@ GameObject:
   - component: {fileID: 3725224165926363926}
   - component: {fileID: 7829962413108854504}
   - component: {fileID: 8687902236669487189}
+  - component: {fileID: 8687902236669487190}
   m_Layer: 0
   m_Name: StylShip_Barrel1
   m_TagString: Untagged
@@ -4901,6 +5019,7 @@ GameObject:
   - component: {fileID: 4861480102723630680}
   - component: {fileID: 2693322666214468842}
   - component: {fileID: 6021096694509316304}
+  - component: {fileID: 6157800127938154985}
   m_Layer: 0
   m_Name: StylShip_FencingMid
   m_TagString: Untagged
@@ -4908,6 +5027,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &6157800127938154985
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6157800127938154984}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.15378402, y: 0.10775938, z: 0.0126056}
+  m_Center: {x: 0, y: 0.0000000018626448, z: -0.000000008614734}
 --- !u!4 &6209181522157458951
 Transform:
   m_ObjectHideFlags: 0
@@ -4923,6 +5055,19 @@ Transform:
   m_Father: {fileID: 5252962273563043561}
   m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &6209181522157458952
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6038542333080241747}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.0016156541, y: 0.017929478, z: 0.03388798}
+  m_Center: {x: 0, y: 0.008180187, z: -5.812328e-17}
 --- !u!4 &6217670866352951865
 Transform:
   m_ObjectHideFlags: 0
@@ -4953,6 +5098,19 @@ Transform:
   m_Father: {fileID: 5252962273563043561}
   m_RootOrder: 39
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &6258248135049764509
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4963540116409455054}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.012000001, y: 0.011182285, z: 0.009722382}
+  m_Center: {x: 0.000000016206462, y: -0.0046100556, z: -0.003873243}
 --- !u!1 &6267308093091985083
 GameObject:
   m_ObjectHideFlags: 0
@@ -4964,6 +5122,7 @@ GameObject:
   - component: {fileID: 3812683595276699331}
   - component: {fileID: 1586725396759661611}
   - component: {fileID: 7348289120268368423}
+  - component: {fileID: 7348289120268368424}
   m_Layer: 0
   m_Name: StylShip_Flag2
   m_TagString: Untagged
@@ -5024,6 +5183,19 @@ Transform:
   m_Father: {fileID: 5252962273563043561}
   m_RootOrder: 66
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &6316590291363134897
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 233067687583766455}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.016964294, y: 0.11851206, z: 0.15507674}
+  m_Center: {x: -0.00291128, y: 0.039409347, z: 0.0003527739}
 --- !u!1 &6316986919858420680
 GameObject:
   m_ObjectHideFlags: 0
@@ -5035,6 +5207,7 @@ GameObject:
   - component: {fileID: 5360038962521648319}
   - component: {fileID: 6359062411486215092}
   - component: {fileID: 4087791192116397671}
+  - component: {fileID: 6359062411486215093}
   m_Layer: 0
   m_Name: StylShip_Barrel6
   m_TagString: Untagged
@@ -5084,6 +5257,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &6358005584492238561
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 23890443580385756}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.010759238, y: 0.060000017, z: 0.05064074}
+  m_Center: {x: 0.0010030621, y: 0, z: -0.00035917395}
 --- !u!33 &6359062411486215092
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -5092,6 +5278,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6316986919858420680}
   m_Mesh: {fileID: -9148894557953423662, guid: a8fd4e3e631e67a4983b6feffbdb761c, type: 3}
+--- !u!65 &6359062411486215093
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6316986919858420680}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.011368423, y: 0.011368426, z: 0.013263162}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!4 &6386123304152654349
 Transform:
   m_ObjectHideFlags: 0
@@ -5145,6 +5344,19 @@ Transform:
   m_Father: {fileID: 5252962273563043561}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &6476571382520702676
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4786749939748554730}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.009156867, y: 0.009156869, z: 0.009156867}
+  m_Center: {x: 0, y: 0.000000029802322, z: -0.000000007916242}
 --- !u!23 &6517279805813240848
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5187,6 +5399,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &6517279805813240849
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2578498297496024945}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.023559611, y: 0.018537601, z: 0.0024052812}
+  m_Center: {x: 4.656613e-10, y: 0.000000027939677, z: 0.0000000012805685}
 --- !u!4 &6549720569145563826
 Transform:
   m_ObjectHideFlags: 0
@@ -5202,6 +5427,19 @@ Transform:
   m_Father: {fileID: 5252962273563043561}
   m_RootOrder: 49
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &6549720569145563827
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 187238540909841937}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.023559611, y: 0.018537601, z: 0.0024052812}
+  m_Center: {x: 4.656613e-10, y: -0.000000016763806, z: -5.820766e-10}
 --- !u!4 &6570434742833221880
 Transform:
   m_ObjectHideFlags: 0
@@ -5217,6 +5455,19 @@ Transform:
   m_Father: {fileID: 5252962273563043561}
   m_RootOrder: 31
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &6570434742833221881
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4406214151864254604}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.1287563, y: 0.10509025, z: 0.0024822252}
+  m_Center: {x: 0.000000029802322, y: 0, z: 0.0000000069849193}
 --- !u!33 &6591843507242530220
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -5236,6 +5487,7 @@ GameObject:
   - component: {fileID: 3417751160681341261}
   - component: {fileID: 8649683181451939371}
   - component: {fileID: 5544039073622943817}
+  - component: {fileID: 8649683181451939372}
   m_Layer: 0
   m_Name: StylShip_Body
   m_TagString: Untagged
@@ -5254,6 +5506,7 @@ GameObject:
   - component: {fileID: 7449662188159634215}
   - component: {fileID: 8123180224785231740}
   - component: {fileID: 8538579948606782642}
+  - component: {fileID: 8538579948606782643}
   m_Layer: 0
   m_Name: StylShip_SailFront
   m_TagString: Untagged
@@ -5272,6 +5525,7 @@ GameObject:
   - component: {fileID: 1611494963065127183}
   - component: {fileID: 4438900003508764530}
   - component: {fileID: 3048086511997015329}
+  - component: {fileID: 6619497545492970267}
   m_Layer: 0
   m_Name: StylShip_Box10
   m_TagString: Untagged
@@ -5279,6 +5533,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &6619497545492970267
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6619497545492970266}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.009156867, y: 0.009156869, z: 0.009156867}
+  m_Center: {x: 0, y: 0, z: 0.0000000013969839}
 --- !u!1 &6625995224235074807
 GameObject:
   m_ObjectHideFlags: 0
@@ -5290,6 +5557,7 @@ GameObject:
   - component: {fileID: 4866857549449807844}
   - component: {fileID: 7486722964846327240}
   - component: {fileID: 8277811220651027564}
+  - component: {fileID: 8277811220651027565}
   m_Layer: 0
   m_Name: StylShip_Pallet2
   m_TagString: Untagged
@@ -5308,6 +5576,7 @@ GameObject:
   - component: {fileID: 6217670866352951865}
   - component: {fileID: 3337727028484663425}
   - component: {fileID: 3546236161364400321}
+  - component: {fileID: 6676477869202737168}
   m_Layer: 0
   m_Name: StylShip_Loopholes
   m_TagString: Untagged
@@ -5315,6 +5584,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &6676477869202737168
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6676477869202737167}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.16502845, y: 0.10093884, z: 0.014564655}
+  m_Center: {x: 0.075714916, y: 0.043921337, z: 4.656614e-10}
 --- !u!23 &6697933438545335036
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5357,6 +5639,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &6697933438545335037
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3124698526536498770}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.11182871, y: 0.005724096, z: 0.036517717}
+  m_Center: {x: 0, y: 0, z: -0.0000000037252894}
 --- !u!33 &6716888023571585443
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -5376,6 +5671,7 @@ GameObject:
   - component: {fileID: 1083588907847386835}
   - component: {fileID: 6919593379283887941}
   - component: {fileID: 2630380193163985164}
+  - component: {fileID: 6919593379283887942}
   m_Layer: 0
   m_Name: StylShip_Box1
   m_TagString: Untagged
@@ -5391,6 +5687,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3107872730735869541}
   m_Mesh: {fileID: -770641223207361598, guid: a8fd4e3e631e67a4983b6feffbdb761c, type: 3}
+--- !u!65 &6751547287059027098
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3107872730735869541}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.27467212, y: 0.07454529, z: 0.042993505}
+  m_Center: {x: 0, y: -0.013977393, z: -0.0000000037252903}
 --- !u!23 &6788712001720817881
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5441,6 +5750,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4325655209531607348}
   m_Mesh: {fileID: -8716432681323688561, guid: a8fd4e3e631e67a4983b6feffbdb761c, type: 3}
+--- !u!65 &6788936654845661896
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4325655209531607348}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.13159211, y: 0.10317965, z: 0.0058248383}
+  m_Center: {x: -0.000000029802322, y: 0, z: -0.0000000045401967}
 --- !u!23 &6819116476002157426
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5524,6 +5846,7 @@ GameObject:
   - component: {fileID: 6270964047424423295}
   - component: {fileID: 6081207499968106730}
   - component: {fileID: 7742554154927260864}
+  - component: {fileID: 7742554154927260865}
   m_Layer: 0
   m_Name: StylShip_Barrel3
   m_TagString: Untagged
@@ -5539,6 +5862,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6749605182851702928}
   m_Mesh: {fileID: -4286469820537272840, guid: a8fd4e3e631e67a4983b6feffbdb761c, type: 3}
+--- !u!65 &6919593379283887942
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6749605182851702928}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.009156868, y: 0.009156871, z: 0.00915687}
+  m_Center: {x: 2.775558e-17, y: -0.000000059604645, z: -4.656614e-10}
 --- !u!33 &6999736894389903408
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -5558,6 +5894,7 @@ GameObject:
   - component: {fileID: 5369230325269895021}
   - component: {fileID: 6124839810169212577}
   - component: {fileID: 862831727663102015}
+  - component: {fileID: 7039562167702933889}
   m_Layer: 0
   m_Name: StylShip_Cannon5
   m_TagString: Untagged
@@ -5565,6 +5902,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &7039562167702933889
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7039562167702933888}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.03478457, y: 0.018149264, z: 0.0153107755}
+  m_Center: {x: 0.0060527115, y: -0.000001645647, z: 0.0013911559}
 --- !u!1 &7057008774960063936
 GameObject:
   m_ObjectHideFlags: 0
@@ -5576,6 +5926,7 @@ GameObject:
   - component: {fileID: 5875781653488923323}
   - component: {fileID: 4688899976830192872}
   - component: {fileID: 6788712001720817881}
+  - component: {fileID: 7057008774960063937}
   m_Layer: 0
   m_Name: StylShip_Box7
   m_TagString: Untagged
@@ -5583,6 +5934,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &7057008774960063937
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7057008774960063936}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.009156867, y: 0.009156869, z: 0.009156867}
+  m_Center: {x: 0, y: 0, z: -4.656613e-10}
 --- !u!33 &7058226891798912436
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -5602,6 +5966,7 @@ GameObject:
   - component: {fileID: 6858817137419140520}
   - component: {fileID: 7762969447194628580}
   - component: {fileID: 178697387619866483}
+  - component: {fileID: 7762969447194628581}
   m_Layer: 0
   m_Name: StylShip_Box8
   m_TagString: Untagged
@@ -5651,6 +6016,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &7152857398882741175
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6048670445640372577}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.012000007, y: 0.0111822905, z: 0.009722378}
+  m_Center: {x: 0.000000031199306, y: 0.004600515, z: -0.00388063}
 --- !u!4 &7164753472303074657
 Transform:
   m_ObjectHideFlags: 0
@@ -5708,6 +6086,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &7214861542695191979
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 819347799735927315}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.011368423, y: 0.011368426, z: 0.013263162}
+  m_Center: {x: 0.000000029802322, y: 0, z: 0}
 --- !u!1 &7217493859757226286
 GameObject:
   m_ObjectHideFlags: 0
@@ -5719,6 +6110,7 @@ GameObject:
   - component: {fileID: 7495415521136777669}
   - component: {fileID: 1055909460568841326}
   - component: {fileID: 822267759353514348}
+  - component: {fileID: 7495415521136777670}
   m_Layer: 0
   m_Name: StylShip_Cannon1
   m_TagString: Untagged
@@ -5791,6 +6183,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1154075116924269440}
   m_Mesh: {fileID: 2908300890723498045, guid: a8fd4e3e631e67a4983b6feffbdb761c, type: 3}
+--- !u!65 &7292006136705261072
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1154075116924269440}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.016867042, y: 0.12024419, z: 0.13621828}
+  m_Center: {x: 9.313226e-10, y: 0.04558785, z: -0.000000022351744}
 --- !u!33 &7299758079953895275
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -5841,6 +6246,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &7302658839566368528
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3829135428967611030}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.15844941, y: 0.10170373, z: 0.005709199}
+  m_Center: {x: 0, y: 0, z: 0.0000000069849193}
 --- !u!33 &7327240622090941157
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -5891,6 +6309,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &7348289120268368424
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6267308093091985083}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.037960064, y: 0.004585273, z: 0.012843904}
+  m_Center: {x: 0.000000022351742, y: -0.000011741652, z: -0.000000001629815}
 --- !u!4 &7449662188159634215
 Transform:
   m_ObjectHideFlags: 0
@@ -5956,6 +6387,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &7484357726406488562
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3600392158376337099}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.0016156541, y: 0.018125813, z: 0.03388798}
+  m_Center: {x: 0, y: -0.008267039, z: -5.8740835e-17}
 --- !u!33 &7486722964846327240
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -5979,6 +6423,19 @@ Transform:
   m_Father: {fileID: 5252962273563043561}
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &7495415521136777670
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7217493859757226286}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.03478457, y: 0.018149266, z: 0.0153107755}
+  m_Center: {x: 0.0060527115, y: -0.0000016458274, z: 0.001391154}
 --- !u!1 &7599418615554316244
 GameObject:
   m_ObjectHideFlags: 0
@@ -5990,6 +6447,7 @@ GameObject:
   - component: {fileID: 4936263399770298885}
   - component: {fileID: 3048860758478688299}
   - component: {fileID: 2032555476205223229}
+  - component: {fileID: 7599418615554316245}
   m_Layer: 0
   m_Name: StylShip_Barrel2
   m_TagString: Untagged
@@ -5997,6 +6455,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &7599418615554316245
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7599418615554316244}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.011368423, y: 0.011368426, z: 0.013263162}
+  m_Center: {x: 0.000000029802322, y: 0, z: 0}
 --- !u!4 &7666855289868212304
 Transform:
   m_ObjectHideFlags: 0
@@ -6054,6 +6525,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &7734057902324603164
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1841830609863303697}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.018081442, y: 0.0042646457, z: 0.04173661}
+  m_Center: {x: -0.008863209, y: 0, z: -0.015068505}
 --- !u!23 &7742554154927260864
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6096,6 +6580,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &7742554154927260865
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6904763029258704270}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.011368423, y: 0.011368426, z: 0.013263162}
+  m_Center: {x: 0.000000029802322, y: 0, z: -0.000000022351742}
 --- !u!33 &7762969447194628580
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -6104,6 +6601,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7060549973150750210}
   m_Mesh: {fileID: -865725356248762448, guid: a8fd4e3e631e67a4983b6feffbdb761c, type: 3}
+--- !u!65 &7762969447194628581
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7060549973150750210}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.009156866, y: 0.009156868, z: 0.009156867}
+  m_Center: {x: 0, y: -0.000000059604645, z: -4.656613e-10}
 --- !u!1 &7788755277043049976
 GameObject:
   m_ObjectHideFlags: 0
@@ -6115,6 +6625,7 @@ GameObject:
   - component: {fileID: 4947818531187848418}
   - component: {fileID: 8266058648066900022}
   - component: {fileID: 7817568721810866562}
+  - component: {fileID: 8266058648066900023}
   m_Layer: 0
   m_Name: StylShip_Box4
   m_TagString: Untagged
@@ -6133,6 +6644,7 @@ GameObject:
   - component: {fileID: 8788591579498173555}
   - component: {fileID: 3557733007037692526}
   - component: {fileID: 3264143257343114410}
+  - component: {fileID: 8788591579498173556}
   m_Layer: 0
   m_Name: StylShip_Box2
   m_TagString: Untagged
@@ -6232,6 +6744,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &7890140184940010598
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5588610952079732198}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.51259464, y: 0.0077041755, z: 0.16692495}
+  m_Center: {x: 0.0005507469, y: 0, z: 0.004814879}
 --- !u!1 &7936732713735518327
 GameObject:
   m_ObjectHideFlags: 0
@@ -6243,6 +6768,7 @@ GameObject:
   - component: {fileID: 497249303458446560}
   - component: {fileID: 3860059208651371006}
   - component: {fileID: 2871515251560462008}
+  - component: {fileID: 7936732713735518328}
   m_Layer: 0
   m_Name: StylShip_MastMid
   m_TagString: Untagged
@@ -6250,6 +6776,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &7936732713735518328
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7936732713735518327}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.03858881, y: 0.1442576, z: 0.36391822}
+  m_Center: {x: -0.00080575794, y: -0.000000014901165, z: 0.06490457}
 --- !u!23 &7960944221407820375
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6334,6 +6873,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &7962013098353664913
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1566754731725722385}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.055951394, y: 0.09728435, z: 0.05146181}
+  m_Center: {x: 9.313226e-10, y: 0.038443428, z: -0.0000000018626456}
 --- !u!4 &7989171676335269324
 Transform:
   m_ObjectHideFlags: 0
@@ -6391,6 +6943,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &8004836384182598897
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2679363565124805311}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.023507752, y: 0.13318518, z: 0.1023974}
+  m_Center: {x: -0.000111957546, y: -0.000000052154064, z: 0.000000003725291}
 --- !u!33 &8040196499323956524
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -6399,6 +6964,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3006362151465637131}
   m_Mesh: {fileID: -485052256103549266, guid: a8fd4e3e631e67a4983b6feffbdb761c, type: 3}
+--- !u!65 &8040196499323956525
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3006362151465637131}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.050205126, y: 0.07390785, z: 0.04463561}
+  m_Center: {x: -9.313226e-10, y: 0, z: 0}
 --- !u!4 &8041230210092476113
 Transform:
   m_ObjectHideFlags: 0
@@ -6414,6 +6992,19 @@ Transform:
   m_Father: {fileID: 5252962273563043561}
   m_RootOrder: 37
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &8041230210092476114
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5253084953104860775}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.012000003, y: 0.011182283, z: 0.00972238}
+  m_Center: {x: 0.000000031199306, y: -0.0046100547, z: -0.0038732497}
 --- !u!1 &8063573503291987564
 GameObject:
   m_ObjectHideFlags: 0
@@ -6425,6 +7016,7 @@ GameObject:
   - component: {fileID: 4612118138997567725}
   - component: {fileID: 2380296113830454582}
   - component: {fileID: 634465969338731600}
+  - component: {fileID: 8063573503291987565}
   m_Layer: 0
   m_Name: StylShip_Cannon4
   m_TagString: Untagged
@@ -6432,6 +7024,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &8063573503291987565
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8063573503291987564}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.03478457, y: 0.018149264, z: 0.0153107755}
+  m_Center: {x: 0.0060527115, y: -0.0000016903505, z: 0.001391154}
 --- !u!1 &8067306504125218169
 GameObject:
   m_ObjectHideFlags: 0
@@ -6443,6 +7048,7 @@ GameObject:
   - component: {fileID: 6386123304152654349}
   - component: {fileID: 6591843507242530220}
   - component: {fileID: 6054520383852365125}
+  - component: {fileID: 8067306504125218170}
   m_Layer: 0
   m_Name: StylShip_LoopholeCap2_right
   m_TagString: Untagged
@@ -6450,6 +7056,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &8067306504125218170
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8067306504125218169}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.012000007, y: 0.011182293, z: 0.00972238}
+  m_Center: {x: 0.0000000013969839, y: 0.0046005757, z: -0.003880631}
 --- !u!1 &8083342317255852260
 GameObject:
   m_ObjectHideFlags: 0
@@ -6461,6 +7080,7 @@ GameObject:
   - component: {fileID: 7666855289868212304}
   - component: {fileID: 5571047541010505367}
   - component: {fileID: 8322192696093643815}
+  - component: {fileID: 8322192696093643816}
   m_Layer: 0
   m_Name: StylShip_Anchor
   m_TagString: Untagged
@@ -6479,6 +7099,7 @@ GameObject:
   - component: {fileID: 3068250883041428845}
   - component: {fileID: 3015977765620020782}
   - component: {fileID: 3428032838463868838}
+  - component: {fileID: 8102334332537507622}
   m_Layer: 0
   m_Name: StylShip_Box5
   m_TagString: Untagged
@@ -6486,6 +7107,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &8102334332537507622
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8102334332537507621}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.009156867, y: 0.009156869, z: 0.009156867}
+  m_Center: {x: 0, y: -0.000000029802322, z: 0.0000000069849193}
 --- !u!1 &8117190064933069014
 GameObject:
   m_ObjectHideFlags: 0
@@ -6497,6 +7131,7 @@ GameObject:
   - component: {fileID: 4561891263386687321}
   - component: {fileID: 8528006958024481573}
   - component: {fileID: 5998512367574205897}
+  - component: {fileID: 8528006958024481574}
   m_Layer: 0
   m_Name: StylShip_MastBack
   m_TagString: Untagged
@@ -6546,6 +7181,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &8118887157793731851
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4953083980121232016}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.30396658, y: 0.12592164, z: 0.047192294}
+  m_Center: {x: 0, y: 0, z: -0.0000000018626456}
 --- !u!33 &8123180224785231740
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -6565,6 +7213,7 @@ GameObject:
   - component: {fileID: 8716190438228745252}
   - component: {fileID: 4810520817126849768}
   - component: {fileID: 5957244687932744150}
+  - component: {fileID: 8716190438228745253}
   m_Layer: 0
   m_Name: StylShip_Barrel4
   m_TagString: Untagged
@@ -6587,6 +7236,19 @@ Transform:
   m_Father: {fileID: 5252962273563043561}
   m_RootOrder: 63
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &8231912930025334416
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4028938598948196937}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.004516285, y: 0.020553278, z: 0.02084154}
+  m_Center: {x: 0.0018653823, y: -0.00028888654, z: -0.00000001117587}
 --- !u!33 &8266058648066900022
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -6595,6 +7257,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7788755277043049976}
   m_Mesh: {fileID: -649734594169964998, guid: a8fd4e3e631e67a4983b6feffbdb761c, type: 3}
+--- !u!65 &8266058648066900023
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7788755277043049976}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.009156867, y: 0.009156871, z: 0.009156869}
+  m_Center: {x: 0.000000029802322, y: 0, z: -0.000000015366822}
 --- !u!23 &8277811220651027564
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6637,6 +7312,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &8277811220651027565
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6625995224235074807}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.023559608, y: 0.018537598, z: 0.0024052812}
+  m_Center: {x: -0.000000059138983, y: -0.000000016763806, z: -0.000000008032657}
 --- !u!33 &8280943143001709203
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -6645,6 +7333,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1209066223719943357}
   m_Mesh: {fileID: -8971191428082997840, guid: a8fd4e3e631e67a4983b6feffbdb761c, type: 3}
+--- !u!65 &8280943143001709204
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1209066223719943357}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.03942357, y: 0.045374967, z: 0.021553816}
+  m_Center: {x: -0.0038413256, y: 0, z: -0.00048822036}
 --- !u!23 &8293134693342346008
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6687,6 +7388,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &8293134693342346009
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4543032304483438545}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.023559611, y: 0.018537601, z: 0.0024052812}
+  m_Center: {x: 4.656613e-10, y: -0.0000000018626451, z: -5.820766e-10}
 --- !u!33 &8315458222917976526
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -6695,6 +7409,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3709785774765672458}
   m_Mesh: {fileID: 5525647311763470942, guid: a8fd4e3e631e67a4983b6feffbdb761c, type: 3}
+--- !u!65 &8315458222917976527
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3709785774765672458}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.0455958, y: 0.11806377, z: 0.1759824}
+  m_Center: {x: -0.007961029, y: 0.03588916, z: 0.0018675183}
 --- !u!23 &8322192696093643815
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6737,6 +7464,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &8322192696093643816
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8083342317255852260}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.010955341, y: 0.00862346, z: 0.027815532}
+  m_Center: {x: -0.00022427063, y: 0.00061997393, z: 0.0062890886}
 --- !u!1 &8409558435357858713
 GameObject:
   m_ObjectHideFlags: 0
@@ -6748,6 +7488,7 @@ GameObject:
   - component: {fileID: 3401700599839432816}
   - component: {fileID: 7299758079953895275}
   - component: {fileID: 3867059398282387128}
+  - component: {fileID: 8409558435357858714}
   m_Layer: 0
   m_Name: StylShip_LoopholeCap1_left
   m_TagString: Untagged
@@ -6755,6 +7496,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &8409558435357858714
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8409558435357858713}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.012000003, y: 0.011182283, z: 0.00972238}
+  m_Center: {x: 0.000000001396984, y: -0.004610025, z: -0.0038732497}
 --- !u!1 &8439591493451536794
 GameObject:
   m_ObjectHideFlags: 0
@@ -6766,6 +7520,7 @@ GameObject:
   - component: {fileID: 6305073517466968395}
   - component: {fileID: 477321352107410592}
   - component: {fileID: 1063153969956843746}
+  - component: {fileID: 8439591493451536795}
   m_Layer: 0
   m_Name: StylShip_FloorFront
   m_TagString: Untagged
@@ -6773,6 +7528,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &8439591493451536795
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8439591493451536794}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.13112535, y: 0.10233441, z: 0.026525686}
+  m_Center: {x: 0, y: 0, z: -0.0000000013969842}
 --- !u!23 &8471208299349578260
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6823,6 +7591,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8117190064933069014}
   m_Mesh: {fileID: 2680880567032412449, guid: a8fd4e3e631e67a4983b6feffbdb761c, type: 3}
+--- !u!65 &8528006958024481574
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8117190064933069014}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.16044682, y: 0.044062357, z: 0.30333337}
+  m_Center: {x: 0.04040384, y: -0.00040531912, z: -0.000000014901165}
 --- !u!23 &8538579948606782642
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6865,6 +7646,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &8538579948606782643
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6612827130932263708}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.019636558, y: 0.10764675, z: 0.08226941}
+  m_Center: {x: 0.0020151697, y: 0.000000003725291, z: -0.00074934604}
 --- !u!23 &8550289369883606613
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6907,6 +7701,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &8550289369883606614
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 127175563887609872}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.037960064, y: 0.0046113674, z: 0.012843904}
+  m_Center: {x: -0.000000007450581, y: 0.000024750136, z: -0.000000001629815}
 --- !u!1 &8620248341072366597
 GameObject:
   m_ObjectHideFlags: 0
@@ -6918,6 +7725,7 @@ GameObject:
   - component: {fileID: 7164753472303074657}
   - component: {fileID: 5661865400797552876}
   - component: {fileID: 4155719633820649421}
+  - component: {fileID: 8620248341072366598}
   m_Layer: 0
   m_Name: StylShip_SailBack
   m_TagString: Untagged
@@ -6925,6 +7733,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &8620248341072366598
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8620248341072366597}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.15642926, y: 0.019109953, z: 0.088586025}
+  m_Center: {x: -0.000000011175871, y: 0.00022971636, z: 0.000000003725291}
 --- !u!33 &8649683181451939371
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -6933,6 +7754,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6611457028600227336}
   m_Mesh: {fileID: 2909364609845529871, guid: a8fd4e3e631e67a4983b6feffbdb761c, type: 3}
+--- !u!65 &8649683181451939372
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6611457028600227336}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.43105567, y: 0.112037644, z: 0.13381752}
+  m_Center: {x: 0, y: 0, z: -0.000000003725291}
 --- !u!23 &8687902236669487189
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6975,6 +7809,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &8687902236669487190
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6114021956466227777}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.011368423, y: 0.011368426, z: 0.013263162}
+  m_Center: {x: 0.000000014901161, y: 0, z: 0}
 --- !u!4 &8716190438228745252
 Transform:
   m_ObjectHideFlags: 0
@@ -6990,6 +7837,19 @@ Transform:
   m_Father: {fileID: 5252962273563043561}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &8716190438228745253
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8212388655337989423}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.011368423, y: 0.011368426, z: 0.013263162}
+  m_Center: {x: 0.000000014901161, y: 0, z: -0.0000000018626451}
 --- !u!1 &8722232567106729295
 GameObject:
   m_ObjectHideFlags: 0
@@ -7001,6 +7861,7 @@ GameObject:
   - component: {fileID: 8840242299096218739}
   - component: {fileID: 4360367297255535016}
   - component: {fileID: 4147132122651764363}
+  - component: {fileID: 8840242299096218740}
   m_Layer: 0
   m_Name: StylShip_Cannon3
   m_TagString: Untagged
@@ -7019,6 +7880,7 @@ GameObject:
   - component: {fileID: 7288571083299672100}
   - component: {fileID: 6999736894389903408}
   - component: {fileID: 2481365710673795199}
+  - component: {fileID: 8746740066683094725}
   m_Layer: 0
   m_Name: StylShip_Wall
   m_TagString: Untagged
@@ -7026,6 +7888,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &8746740066683094725
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8746740066683094724}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.004, y: 0.10214157, z: 0.05285725}
+  m_Center: {x: 0.0001896515, y: 0.024657173, z: -0.0006800519}
 --- !u!4 &8788591579498173555
 Transform:
   m_ObjectHideFlags: 0
@@ -7041,6 +7916,19 @@ Transform:
   m_Father: {fileID: 5252962273563043561}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &8788591579498173556
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7815285253051571137}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.009156867, y: 0.009156871, z: 0.009156869}
+  m_Center: {x: 0, y: 0, z: -0.000000015366822}
 --- !u!4 &8840242299096218739
 Transform:
   m_ObjectHideFlags: 0
@@ -7056,6 +7944,19 @@ Transform:
   m_Father: {fileID: 5252962273563043561}
   m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &8840242299096218740
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8722232567106729295}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.03478457, y: 0.018149264, z: 0.0153107755}
+  m_Center: {x: 0.006052652, y: -0.0000016754493, z: 0.001391154}
 --- !u!23 &8852629858950167458
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7098,6 +7999,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &8852629858950167459
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6034530439297731231}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.13741861, y: 0.10764697, z: 0.014940087}
+  m_Center: {x: 0, y: 0, z: 0.000000005587935}
 --- !u!23 &8928270741194827185
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7168,6 +8082,19 @@ Transform:
   m_Father: {fileID: 5252962273563043561}
   m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &9046122447018929238
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3809188529226046768}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.13830528, y: 0.10776254, z: 0.015104031}
+  m_Center: {x: 0.000000029802322, y: 0, z: -0.000000018626451}
 --- !u!4 &9059701966593632535
 Transform:
   m_ObjectHideFlags: 0
@@ -7183,6 +8110,19 @@ Transform:
   m_Father: {fileID: 5252962273563043561}
   m_RootOrder: 59
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &9059701966593632536
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5640359727739681356}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.029826153, y: 0.09751949, z: 0.022175316}
+  m_Center: {x: -0.0000000027939677, y: 0.0000000018626448, z: -0.0000000088475645}
 --- !u!33 &9089393045026430445
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -7191,6 +8131,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5577128431753354059}
   m_Mesh: {fileID: -373929955035729426, guid: a8fd4e3e631e67a4983b6feffbdb761c, type: 3}
+--- !u!65 &9089393045026430446
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5577128431753354059}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.009156867, y: 0.009156873, z: 0.009156869}
+  m_Center: {x: 0.000000059604645, y: 0.000000029802322, z: -4.656614e-10}
 --- !u!4 &9208713479720767300
 Transform:
   m_ObjectHideFlags: 0
@@ -7206,3 +8159,16 @@ Transform:
   m_Father: {fileID: 5252962273563043561}
   m_RootOrder: 44
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &9208713479720767301
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1605350969400789007}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.03858881, y: 0.116311364, z: 0.2839676}
+  m_Center: {x: -0.00007533096, y: -0.000041913252, z: 1.5701396e-18}
